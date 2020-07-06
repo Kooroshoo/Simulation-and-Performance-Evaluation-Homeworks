@@ -1,6 +1,7 @@
 # Simulation-and-Performance-Evaluation-Homeworks
 
-Link of the Jupyter notebook Homework 1: [Link](https://github.com/Kooroshoo/Simulation-and-Performance-Evaluation-Homeworks/blob/master/Homework%201/Code%20-%20HW1.ipynb)
+Link to the Homework 1 problem PDF: [Link](https://github.com/Kooroshoo/Simulation-and-Performance-Evaluation-Homeworks/blob/master/Homework%201/SPE2020_HW1.pdf)
+Solution to Homework 1 in Jupyter notebook: [Link](https://github.com/Kooroshoo/Simulation-and-Performance-Evaluation-Homeworks/blob/master/Homework%201/Code%20-%20HW1.ipynb)
 
 Link of the Jupyter notebook Homework 2: [Link](https://github.com/Kooroshoo/Simulation-and-Performance-Evaluation-Homeworks/blob/master/Homework%202/Code%20-%20HW2.ipynb)
 
