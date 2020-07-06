@@ -11,7 +11,7 @@ Link to the Homework 3 problem PDF: [Link](https://github.com/Kooroshoo/Simulati
 . Solution to Homework 3 in Jupyter notebook: [Link](https://github.com/Kooroshoo/Simulation-and-Performance-Evaluation-Homeworks/blob/master/Homework%203/Code%20-%20HW3.ipynb)
 
 
-Link to the Homework 4 problem PDF: [Link](https://github.com/Kooroshoo/Simulation-and-Performance-Evaluation-Homeworks/blob/master/Homework%203/SPE2020_HW3.pdf)
+Link to the Homework 4 problem PDF: [Link](https://github.com/Kooroshoo/Simulation-and-Performance-Evaluation-Homeworks/blob/master/Homework%204/Code%20-%20HW4.ipynb)
 . Solution to Homework 4 in Jupyter notebook: [Link](https://github.com/Kooroshoo/Simulation-and-Performance-Evaluation-Homeworks/blob/master/Homework%204/Code%20-%20HW4.ipynb)
 
 #
