@@ -16,3 +16,5 @@ Link to the Homework 4 problem PDF: [Link](https://github.com/Kooroshoo/Simulati
 
 #
 Homeworks done as part of the course Simulation and performance evaluation at the University of Trento
+
+The Data for each exercise is available in its folder.
