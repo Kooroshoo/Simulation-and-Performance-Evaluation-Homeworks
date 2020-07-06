@@ -1,2 +1,2 @@
 # Simulation-and-Performance-Evaluation-Homeworks
-Simulation and Performance Evaluation – Homeworks
+Homeworks done as part of the course Simulation and performance evaluation
