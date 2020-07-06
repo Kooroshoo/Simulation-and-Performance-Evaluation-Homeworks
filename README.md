@@ -15,6 +15,6 @@ Link to the Homework 4 problem PDF: [Link](https://github.com/Kooroshoo/Simulati
 . Solution to Homework 4 in Jupyter notebook: [Link](https://github.com/Kooroshoo/Simulation-and-Performance-Evaluation-Homeworks/blob/master/Homework%204/Code%20-%20HW4.ipynb)
 
 #
-Homeworks done as part of the course Simulation and performance evaluation at the University of Trento
+Homeworks done as part of the course Simulation and performance evaluation at the University of Trento.
 
-The Data for each exercise is available in its folder.
+The data for each exercise is available in its folder.
